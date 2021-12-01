@@ -9,7 +9,7 @@ These are notes taken by `Paul Lee` on how to approximate LFL and UFL limits bas
 - LFL: Amount of fuel controls the limit
 - UFL: Amount of oxygen controls the limit
 
-![Inert_Gas_FL]("img/Effect of Inert Gas on FL.png")
+![Inert_Gas_FL](https://github.com/Eellaup/NFPA69_Flammability_Limits/blob/master/img/Effect%20of%20Inert%20Gas%20on%20FL.png)
 
 ### Estimation of FL based on thermal balance method (Ma 2011)
 
@@ -29,17 +29,17 @@ Calculation Method
 
 Lower Flammability Limit
 
-![LFL]("img/lfl.png")
+![LFL](img/lfl.png)
 
 Upper Flammability Limit
 
-![UFL]("img/ufl.png")
+![UFL](img/ufl.png)
 
 where....
 
 Heat of Oxidation (Flammable Species)
 
-![HoO]("img/heat_of_oxidation.png")
+![HoO](img/heat_of_oxidation.png)
 
 Heat of Oxidation (Flammable Mixture)
 
