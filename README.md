@@ -60,3 +60,7 @@ Stoichiometric Amount of Oxygen (Flammable mixture)
 Heating Factor (Flammable Mixture)
 
 ![HF](img/heating_factor_mix.png)
+
+Quenching Factor (Diluents)
+
+![QD](img/Quenching_Factor_Diluent.png)
