@@ -9,7 +9,7 @@ These are notes taken by `Paul Lee` on how to approximate LFL and UFL limits bas
 - LFL: Amount of fuel controls the limit
 - UFL: Amount of oxygen controls the limit
 
-![Inert_Gas_FL](img/Effect_of_Inert_Gas_onFL.png)
+![Inert_Gas_FL](img/Effect_of_Inert_Gas_on_FL.png)
 
 ### Estimation of FL based on thermal balance method (Ma 2011)
 
